@@ -35,5 +35,6 @@ public class CeilandFloor{
         System.out.println("ceil value of "+tar+" is "+ceil(arr,tar));
         System.out.println("floor value of "+tar+" is "+floor(arr,tar));
 
+
     }
 }
